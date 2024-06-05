@@ -94,7 +94,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Rahul Subramaniam", "A Risk Associate by Day", "A Sportsperson by Evening", "A Tinkerer by Night"],
+      strings: ["Rahul Subramaniam", "A Quant Associate by Day", "A Sportsperson by Evening", "A Tinkerer by Night"],
       typeSpeed: 100,
       loop: true,
     });
